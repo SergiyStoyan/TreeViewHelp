@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TreeViewData>
+  <Node Text="TreeViewHelp.csproj" ImageIndex="1" SelectedImageIndex="1" Checked="False" Expanded="True" Comment="" File="C:\_D\CLIVER\_articles\TreeViewExt\TreeViewHelp\TreeViewHelp.csproj" IsNewEntry="True">
+    <Node Text="EditForm.cs" ImageIndex="1" SelectedImageIndex="1" Checked="False" Expanded="True" Comment="" File="C:\_D\CLIVER\_articles\TreeViewExt\TreeViewHelp\EditForm.cs" IsNewEntry="True">
+      <Node Text="EditForm.Designer.cs" ImageIndex="2" SelectedImageIndex="2" Checked="False" Expanded="False" Comment="" File="C:\_D\CLIVER\_articles\TreeViewExt\TreeViewHelp\EditForm.Designer.cs" IsNewEntry="True" />
+      <Node Text="EditForm.resx" ImageIndex="2" SelectedImageIndex="2" Checked="False" Expanded="False" Comment="" File="C:\_D\CLIVER\_articles\TreeViewExt\TreeViewHelp\EditForm.resx" IsNewEntry="True" />
+    </Node>
+    <Node Text="TreeViewExt.cs" ImageIndex="1" SelectedImageIndex="1" Checked="False" Expanded="True" Comment="" File="C:\_D\CLIVER\_articles\TreeViewExt\TreeViewHelp\TreeViewExt.cs" IsNewEntry="True">
+      <Node Text="TreeViewExt.Designer.cs" ImageIndex="2" SelectedImageIndex="2" Checked="False" Expanded="False" Comment="" File="C:\_D\CLIVER\_articles\TreeViewExt\TreeViewHelp\TreeViewExt.Designer.cs" IsNewEntry="True" />
+      <Node Text="TreeViewExt.resx" ImageIndex="2" SelectedImageIndex="2" Checked="False" Expanded="False" Comment="" File="C:\_D\CLIVER\_articles\TreeViewExt\TreeViewHelp\TreeViewExt.resx" IsNewEntry="True" />
+    </Node>
+    <Node Text="XmlTreeView.cs" ImageIndex="1" SelectedImageIndex="1" Checked="False" Expanded="True" Comment="" File="C:\_D\CLIVER\_articles\TreeViewExt\TreeViewHelp\XmlTreeView.cs" IsNewEntry="True">
+      <Node Text="XmlTreeView.Designer.cs" ImageIndex="2" SelectedImageIndex="2" Checked="False" Expanded="False" Comment="" File="C:\_D\CLIVER\_articles\TreeViewExt\TreeViewHelp\XmlTreeView.Designer.cs" IsNewEntry="True" />
+      <Node Text="XmlTreeView.resx" ImageIndex="2" SelectedImageIndex="2" Checked="False" Expanded="False" Comment="" File="C:\_D\CLIVER\_articles\TreeViewExt\TreeViewHelp\XmlTreeView.resx" IsNewEntry="True" />
+    </Node>
+  </Node>
+</TreeViewData>

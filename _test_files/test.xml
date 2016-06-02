@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TreeViewData>
+  <Node Text="Back.png" ImageIndex="1" SelectedImageIndex="0" Checked="False" Expanded="True" Comment="" File="C:\_D\_PROJECTS\TreeView\TreeView\bin\Debug\Back.png" IsNewEntry="True">
+    <Node Text="Block.png" ImageIndex="2" SelectedImageIndex="2" Checked="False" Expanded="False" Comment="" File="C:\_D\_PROJECTS\TreeView\TreeView\bin\Debug\Block.png" IsNewEntry="True" />
+    <Node Text="Delete.png" ImageIndex="2" SelectedImageIndex="2" Checked="False" Expanded="False" Comment="" File="C:\_D\_PROJECTS\TreeView\TreeView\bin\Debug\Delete.png" IsNewEntry="True" />
+  </Node>
+  <Node Text="Check.png" ImageIndex="1" SelectedImageIndex="2" Checked="False" Expanded="True" Comment="" File="C:\_D\_PROJECTS\TreeView\TreeView\bin\Debug\Check.png" IsNewEntry="True">
+    <Node Text="Configurator.png" ImageIndex="0" SelectedImageIndex="0" Checked="False" Expanded="False" Comment="" File="C:\_D\_PROJECTS\TreeView\TreeView\bin\Debug\Configurator.png" IsNewEntry="True">
+      <Node Text="Delete.png" ImageIndex="0" SelectedImageIndex="0" Checked="False" Expanded="False" Comment="" File="C:\_D\_PROJECTS\TreeView\TreeView\bin\Debug\Delete.png" IsNewEntry="True">
+        <Node Text="Back.png" ImageIndex="2" SelectedImageIndex="2" Checked="False" Expanded="False" Comment="" File="C:\_D\_PROJECTS\TreeView\TreeView\bin\Debug\Back.png" IsNewEntry="True" />
+      </Node>
+      <Node Text="Configurator.png" ImageIndex="2" SelectedImageIndex="2" Checked="False" Expanded="False" Comment="" File="C:\_D\_PROJECTS\TreeView\TreeView\bin\Debug\Configurator.png" IsNewEntry="True" />
+    </Node>
+  </Node>
+  <Node Text="add" ImageIndex="2" SelectedImageIndex="0" Checked="False" Expanded="True" Comment="" File="C:\_D\_PROJECTS\TreeView\TreeView\bin\Debug\Add.png" IsNewEntry="True" />
+</TreeViewData>
